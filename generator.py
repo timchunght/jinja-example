@@ -8,4 +8,4 @@ print output_from_parsed_template
 
 # to save the results
 with open("my_new_file.html", "wb") as fh:
-    fh.write(output_from_parsed_template)
+  fh.write(output_from_parsed_template)
